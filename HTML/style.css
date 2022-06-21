@@ -1,0 +1,10 @@
+.chat {
+    min-width: 400px; 
+    width: 80px; 
+    min-height: 500px;
+    position: fixed;
+    bottom: 0;
+    right: 0; 
+}
+
+
